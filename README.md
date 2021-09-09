@@ -1,2 +1,2 @@
 # totus
-Another one Javascript Data Structure Library Collection
+Another Javascript Data Structure Library Collection
